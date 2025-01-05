@@ -1,4 +1,4 @@
-# Arduino_RC_Car_Python_OpenCV_Gesture_Control
+# Arduino Car Python OpenCV Gesture Control
 
 ## Demo of the project below
 
